@@ -17,3 +17,4 @@ class Store:
             Store.__instance = self
 
         self.todos = []
+        #blabla
