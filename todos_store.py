@@ -19,5 +19,3 @@ class Store:
         self.todos = []
         #blabla
         #blabla
-        #blabla
-        #blabla
